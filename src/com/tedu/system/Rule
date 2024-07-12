@@ -1,0 +1,7 @@
+1)Person超类：名字、年龄、工资、上班打卡()、下班打卡()、完成工作()；
+2)SolveProblem接口：解决企业问题()；EditBook接口：编辑书籍()；TrainEnterpriseEmployees接口：培训企业员工；
+
+3)教研总监类，继承Person超类，实现SolveProblem接口，重写完成工作()；
+4)讲师类，继承Person超类，实现SolveProblem接口，重写完成工作()；
+5)项目经理类，继承Person超类，实现EditBook接口，重写完成工作()；
+6)班主任类，继承Person超类，重写完成工作()；
